@@ -96,8 +96,8 @@ export default {
   name: "App",
   data() {
     return {
-      api_key: "83c5ef939024fb80e191632fb356a08a",
-      api_key2: "a08fda75492dba8dd131f96e04452410e230ffef",
+      api_key: "your_API_key",
+      api_key2: "your_API_key",
       url_base: "https://api.openweathermap.org/data/2.5/",
       query: "Zagreb",
       weather: {},
